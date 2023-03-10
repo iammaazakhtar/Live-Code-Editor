@@ -30,12 +30,6 @@ Read the [CONTRIBUTING.md](https://github.com/clubgamma/Live-Code-Editor/blob/ma
   - **To get Digital Ocean swags, you just have to make minimum 4 PRs to any open source projects on GitHub**
   - **If a maintainer reports your pull request as spam, it will not be counted towards your participation in Hacktoberfest.**
 
-  
-## Contact Us
-
-**To know more about us, visit [official website](https://clubgamma.github.io/) of Club Gamma.**
-
-**To know more about how Club Gamma is going to celebrate Hacktoberfest, click [here](https://clubgamma.github.io/hacktoberfest2021/)**
 
 <div align="center">  
 <i>If you want to add any feature or if you found a bug, feel free to open an issue</i><br><br>
